@@ -1,62 +1,49 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# HTML/CSS & JavaScript capstone project - Savud Int'l Business Summit page
 
-> Description the project.
-
+> This Project is about creating a responsive webpage
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Javascript
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+- [Live Demo Link](https://eudondian.github.io/esther-capstone-project/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps below
 
 ### Prerequisites
 
+- Basic HTML & CSS knowledge
+- Basic JavaScript knowledge
+
 ### Setup
 
-### Install
+git clone git@github.com:eudondian/esther-capstone-project.git
 
 ### Usage
 
-### Run tests
-
-### Deployment
-
-
+Switch to esther-capstone-project directory
 
 ## Authors
 
-👤 **Author1**
+👤 **Esther Udondian**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@eudondian](https://github.com/eudondian)
+- Twitter: [@estherudondian](https://twitter.com/estherudondian)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/esther-udondian-186849119/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/eudondian/esther-capstone-project/issues).
 
 ## Show your support
 
@@ -64,9 +51,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Hat tip to Cindy [Shin in Behance](https://www.behance.net/adagio07) whose design I used
 
 ## 📝 License
 
