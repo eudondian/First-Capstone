@@ -12,9 +12,10 @@
 
 ## Live Demo
 
-- [Live Demo Link](https://eudondian.github.io/esther-capstone-project/)
+- [Live Demo Link]( https://eudondian.github.io/esther-capstone-project/\
 
 ## Getting Started
+
 
 To get a local copy up and running follow these simple steps below
 
