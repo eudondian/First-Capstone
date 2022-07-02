@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-- [Live Demo Link]()
+- [Live Demo Link](https://eudondian.github.io/esther-capstone-project/)
 
 ## Getting Started
 
