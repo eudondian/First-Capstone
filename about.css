@@ -192,8 +192,7 @@ body {
 }
 
 .twenty-one {
-  background: url('./images/income-graph-for-savings.svg') no-repeat 0,
-    0 #ec5242;
+  background: url('./images/bgimgabt1.svg') no-repeat 0, 0 #ec5242;
   background-blend-mode: multiply;
   background-repeat: no-repeat;
   background-size: contain;
@@ -205,8 +204,7 @@ body {
 }
 
 .twenty {
-  background: url('./images/income-graph-for-savings.svg') no-repeat 0,
-    0 #ec5242;
+  background: url('./images/bgimgabt1.svg') no-repeat 0, 0 #ec5242;
   background-blend-mode: multiply;
   background-size: cover;
   transition: ease-in-out 0.5s;
