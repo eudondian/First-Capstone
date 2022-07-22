@@ -2,7 +2,7 @@
 
 # HTML/CSS & JavaScript capstone project - Savud Int'l Business Summit page
 
-> This Project is about creating a responsive webpage
+This is the first Microverse capstone project meant to summarize all the content learned through first module. The project which is about an International summit was a Sample from Cindy Shin in Behance
 
 ## Built With
 
@@ -20,7 +20,6 @@
 To get a local copy up and running follow these simple steps below
 
 ### Prerequisites
-
 - Basic HTML & CSS knowledge
 - Basic JavaScript knowledge
 
@@ -37,7 +36,7 @@ Switch to esther-capstone-project directory
 👤 **Esther Udondian**
 
 - GitHub: [@eudondian](https://github.com/eudondian)
-- Twitter: [@estherudondian](https://twitter.com/estherudondian)
+- Twitter: [@eudondian](https://twitter.com/estherudondian)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/esther-udondian-186849119/)
 
 ## 🤝 Contributing
